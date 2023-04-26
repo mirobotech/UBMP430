@@ -2,6 +2,7 @@
  
  UBMP430 (USB-Based Beginner Multipurpose Project 4, rev. 3) KiCad schematic and PCB design files.
 
+<img width="1648" alt="Screen Shot 2023-04-26 at 2 25 37 PM" src="https://user-images.githubusercontent.com/4099144/234668833-e2302650-1e9d-4eeb-bada-f1ed8ce6c0e7.png">
 
 UBMP430 is a simple, versatile, and inexpensive microcontroller development system for everyone! The UBMP430 circuit board has a variety of simple I/O devices built-in so beginners can learn to code and make an assortment of different projects using just the parts on UBMP430 – no breadboarding, shields, or other modules are required, and external devices can be added using the expansion header. 
 
@@ -21,7 +22,6 @@ The bootloader makes it possible to program UBMP430 using almost any kind of dev
 - optional IR phototransistor or visible-light ambient light sensor for light sensing
 - USB 2.0 type-C port for power and programming (updated 
 - 6-pin ICSP (In-Circuit Serial Programming) header for PICkit-4
-
 
 ## UMBP430 is Open
 
