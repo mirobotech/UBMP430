@@ -36,3 +36,4 @@ UBMP430 is open hardware and uses open source software – we want educators to 
 
 UBMP430 boards, kits, and lab packs are available at [mirobo.tech](https://mirobo.tech/ubmp4).  
 Bare UBMP430 printed circuit boards are also available from [OSHPARK](https://oshpark.com/shared_projects/tnwOOjI0).
+A list of parts to build your own UBMP4.3 is available on [Digi-Key](https://www.digikey.ca/en/mylists/list/G02M9O46QV).
